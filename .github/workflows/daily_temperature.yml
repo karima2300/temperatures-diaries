@@ -2,7 +2,7 @@ name: Recollida diària de temperatures
 
 on:
   schedule:
-    - cron: '59 23 * * *'
+    - cron: '33 13 * * *'
   workflow_dispatch:
 
 jobs:
