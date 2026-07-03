@@ -1,0 +1,14 @@
+{
+    "ciutat": "Barcelona",
+    "data": "20260703",
+    "coordenades": {
+        "lat": 41.38879,
+        "lon": 2.15899
+    },
+    "estadistiques": {
+        "maxima": 29.8,
+        "minima": 22.4,
+        "mitjana": 26.58
+    },
+    "unitats": "°C"
+}
